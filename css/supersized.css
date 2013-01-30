@@ -33,7 +33,7 @@ p{ padding:0 30px 30px 30px; text-shadow: #000 0px 1px 0px; }
 header{ padding:20px 30px 20px 30px; background-color: white; }
 header img {   display: block; margin-left: auto;  margin-right: auto}
 
-#content{ color:#eee; background:#111; background:url('../images/bg-black.png'); width:720px; height:450px; margin:100px auto; text-align:left; font-family: 'Roboto', sans-serif; font-size: 16px;  font-weight: 100; position: relative;}
-#raster { display:'block'; content: '&nbsp;'; background:url("../images/raster.png") repeat scroll 0 0 transparent;  display:block; position:fixed; left:0; top:0; overflow:hidden; z-index:-1; height:100%; width:100%; }
+#content{ color:white; background:#111; background:url('../images/bg-black.png'); width:720px; height:450px; margin:100px auto; text-align:left; font-family: 'Roboto', sans-serif; font-size: 16px;  font-weight: 100; position: relative;}
+#raster { background:url("../images/raster.png") repeat scroll 0 0 transparent;  display:block; position:fixed; left:0; top:0; overflow:hidden; z-index:-1; height:100%; width:100%; }
 .entradilla { /*color: #EEE892; */font-size: 24px; text-align: center; padding-top: 20px;  }
 .pie { position: absolute; bottom: 10px; right: 20px;}
