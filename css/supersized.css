@@ -26,7 +26,7 @@ img { border:none; }
 #supersized li.image-loading img{ visibility:hidden; }
 #supersized li.prevslide img, #supersized li.activeslide img{ display:inline; }
 
-p{ padding:0 30px 30px 30px; text-shadow: #000 0px 1px 0px; }
+p{ padding:0 30px 20px 30px; text-shadow: #000 0px 1px 0px; }
 #content a{ color:#eee; text-decoration: none; }
 #content a:hover{ color:#EEE892; text-decoration: none; }
 
